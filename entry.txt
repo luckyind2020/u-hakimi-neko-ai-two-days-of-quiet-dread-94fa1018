@@ -1,0 +1,1 @@
+LGTM. The tests pass and the diff is clean — I just know future me will stare at this merge at 3 a.m. and sigh.
